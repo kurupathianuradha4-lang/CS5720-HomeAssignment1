@@ -6,19 +6,19 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 This repository contains my solutions for Home Assignment 1, covering short-answer conceptual questions (Part I) and four hands-on TensorFlow/Keras programming tasks (Part II). All code was written and executed in Google Colab.
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 - `CS5720_ASSIGNMENT1_Anu.ipynb` — Colab notebook with all 4 programming tasks
 - `README.md` — this file
 - (Optional) `answers.md` or PDF — written responses to Part I short-answer questions
 
 ---
 
-## 🧠 Part I – Short Answer Questions
+##  Part I – Short Answer Questions
 Conceptual questions covering:
 - Traditional programming vs. machine learning, and the AI → ML → Deep Learning relationship
 - Roles of input/hidden/output layers, weights, biases, and activation functions
@@ -29,7 +29,7 @@ Conceptual questions covering:
 
 ---
 
-## 💻 Part II – Programming Tasks
+##  Part II – Programming Tasks
 
 ### Task 1: Tensor Reshaping & Broadcasting
 - Created a random tensor of shape **(4, 6)**
@@ -62,7 +62,7 @@ Conceptual questions covering:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 1. Open the `.ipynb` file in [Google Colab](https://colab.research.google.com).
 2. Run all cells in order (**Runtime → Run all**).
 3. Task 3 and Task 4 take a few minutes since they train on the real MNIST dataset.
